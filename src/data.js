@@ -1,5 +1,10 @@
 export default [
   {
+    "countryName": "foreign-citizenship",
+    "countryShortCode": "RESIDENCE_STATUS_B_STAY",
+    "regions": []
+  },
+  {
     "countryName": "Afghanistan",
     "countryShortCode": "AF",
     "regions": [
